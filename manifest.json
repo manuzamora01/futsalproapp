@@ -1,0 +1,38 @@
+{
+  "name": "Futsal Pro Manager",
+  "short_name": "FutsalPro",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#003cc5",
+  "theme_color": "#003cc5",
+  "icons": [
+    {
+      "src": "logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "Vista Movil"
+    },
+    {
+      "src": "logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "Vista Escritorio"
+    }
+  ]
+}
