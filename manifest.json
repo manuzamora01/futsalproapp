@@ -25,14 +25,7 @@
       "sizes": "512x512",
       "type": "image/png",
       "form_factor": "narrow",
-      "label": "Vista Movil"
-    },
-    {
-      "src": "logo.png",
-      "sizes": "512x512",
-      "type": "image/png",
-      "form_factor": "wide",
-      "label": "Vista Escritorio"
+      "label": "Inicio de App"
     }
   ]
 }
